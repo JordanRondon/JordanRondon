@@ -10,6 +10,10 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
+<div align="center">
+  I am a Jr. Software Developer from Trujillo, Peru, passionate about technology and programming. Currently my main focus is backend development, although I also enjoy exploring the frontend.
+</div>
+
 <!--
 **JordanRondon/JordanRondon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
