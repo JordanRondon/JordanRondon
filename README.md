@@ -62,6 +62,7 @@
     ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
     ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
     ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+    <!--- https://github.com/Ileriayo/markdown-badges -->
     
 - **Softwares and Tools**:
 
@@ -81,6 +82,7 @@
     
 </p>
 </dr>
+<!--- https://github.com/tandpfun/skill-icons#readme -->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b> Github Stats </b>
 <!--- stats (start) -->
