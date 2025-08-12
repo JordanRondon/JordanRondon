@@ -76,7 +76,7 @@
 
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=md,notion,figma,discord" />
+        <img src="https://skillicons.dev/icons?i=md,notion,obsidian,figma,discord" />
       </a>
     </p> 
     
