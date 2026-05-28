@@ -87,7 +87,6 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b> Github Stats </b>
 <!--- stats (start) -->
 <p align="center">
-    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=JordanRondon&theme=dark&show_icons=true&count_private=true" />
     <img  align="center" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JordanRondon&theme=dark&hide_border=false" />
 </p>
 <!--- stats (end) -->
